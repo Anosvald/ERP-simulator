@@ -45,11 +45,11 @@ Su objetivo es monitorear transacciones comerciales y contables del ERP para det
 
 ## 5. Evidencias
 
-![Evidencia 1](evidencias/65e92e27-238c-4ad0-97b2-cfbc79a154a6.png)
-![Evidencia 2](evidencias/Captura%20de%20pantalla%202026-11-23%20215043.jpg)
-![Evidencia 3](evidencias/Captura%20de%20pantalla%202026-11-23%20215106.jpg)
-![Evidencia 4](evidencias/Captura%20de%20pantalla%202026-11-23%20215206.jpg)
-![Evidencia 5](evidencias/Captura%20de%20pantalla%202026-11-23%20215230.jpg)
-![Evidencia 6](evidencias/Captura%20de%20pantalla%202026-11-23%20215250.jpg)
-![Evidencia 7](evidencias/Captura%20de%20pantalla%202026-11-23%20215308.jpg)
-![Evidencia 8](evidencias/Captura%20de%20pantalla%202026-11-23%20215818.jpg)
+![Evidencia 1](evidencias/65e92e27-238c-4ad0-97b2-cfbc79a154a6.jpg)
+![Evidencia 2](evidencias/Captura%20de%20pantalla%202026-11-23%20215043.png)
+![Evidencia 3](evidencias/Captura%20de%20pantalla%202026-11-23%20215106.png)
+![Evidencia 4](evidencias/Captura%20de%20pantalla%202026-11-23%20215206.png)
+![Evidencia 5](evidencias/Captura%20de%20pantalla%202026-11-23%20215230.png)
+![Evidencia 6](evidencias/Captura%20de%20pantalla%202026-11-23%20215250.png)
+![Evidencia 7](evidencias/Captura%20de%20pantalla%202026-11-23%20215308.png)
+![Evidencia 8](evidencias/Captura%20de%20pantalla%202026-11-23%20215818.png)
